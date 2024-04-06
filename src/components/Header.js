@@ -44,7 +44,7 @@ const Header = () => {
         <img className='w-44'
         src={LOGO} alt="logo"/>
       {user && (<div className='flex'>
-        <button onClick={handleSignOut} className='text-red-600 font-bold px-4 m-6'>Sign Out ⭕</button>
+        <button onClick={handleSignOut} className='text-white font-bold px-2 m-6 bg-red-700 p-2 rounded-md'>Sign Out⭕</button>
       </div>)}
     </div>
   )

@@ -18,3 +18,7 @@
 - BugFixing of redirection of /Login and /Browse page
 - Unsubscribed to the onAuthStateChanged callback - unmounting
 - Hardcoded strings converted to variables and kept in utils->constants 
+- Registered for TMDB API and create an app & get access token
+- Get data from TMDB API
+- Setup store for "now playing movies"
+- created custom hooks

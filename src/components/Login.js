@@ -53,14 +53,14 @@ const Login = () => {
          else {
             //Sign In Logic
             signInWithEmailAndPassword(auth, email.current.value, password.current.value)
-            .then((userCredential) => { 
+               .then((userCredential) => { 
             const user = userCredential.user;
-            })
-            .catch((error) => {
+               })
+               .catch((error) => {
             const errorCode = error.code;
             const errorMessage = error.message;
             setErrorMessage(errorCode+ "-" +errorMessage);
-            });
+               });
          }
     }
 
