@@ -21,4 +21,8 @@
 - Registered for TMDB API and create an app & get access token
 - Get data from TMDB API
 - Setup store for "now playing movies"
-- created custom hooks
+- created custom hooks for NowPlaying Movies
+- Update Store with movie data
+= Planning for main and secondary container
+- Embeded the youtube video to autoplay & mute
+- Tailwind Css to enhance looks
