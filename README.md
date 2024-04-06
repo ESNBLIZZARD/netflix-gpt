@@ -25,4 +25,10 @@
 - Update Store with movie data
 = Planning for main and secondary container
 - Embeded the youtube video to autoplay & mute
-- Tailwind Css to enhance looks
+- Tailwind CSS to enhance looks
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browsre page amazing with Tailwind CSS
+- usePopularMovies, useTopRatedMovies, useTrendingMovies, useUpcomingMovies Custom hook
