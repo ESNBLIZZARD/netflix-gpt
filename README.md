@@ -40,3 +40,6 @@
 = created gptSlice added data
 - Resused Movie List component to build movie suggestion container
 - Added CSS to make our site responsive
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
