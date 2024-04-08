@@ -34,3 +34,9 @@
 - usePopularMovies, useTopRatedMovies, useTrendingMovies, useUpcomingMovies Custom hook
 - GPT search page
 - Language changing feature in GPT search page
+- Get Open AI Api Key
+- Gpt Search API Call
+- fetched gptMoviesSuggestions from TMDB
+= created gptSlice added data
+- Resused Movie List component to build movie suggestion container
+- Added CSS to make our site responsive
