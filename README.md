@@ -32,3 +32,5 @@
 - TMDB Image CDN URL
 - Made the Browsre page amazing with Tailwind CSS
 - usePopularMovies, useTopRatedMovies, useTrendingMovies, useUpcomingMovies Custom hook
+- GPT search page
+- Language changing feature in GPT search page
