@@ -45,7 +45,8 @@
 - Adding .env file to gitignore
 
 
-#Features
+
+# Features
 
 - Login/Sign Up
     - Sign In /Sign up Form
